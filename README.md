@@ -14,9 +14,7 @@ As an aspiring web developer, I am fueled by a strong passion for creating inter
 
 ## Education
 
-**Master Degree in IT | [The Jacob of Paradies University] | [2022 - present]**
-
-
+**Bachelor Degree in IT | [The Jacob of Paradies University] | [2022 - present]**
 
 ## Experience
 
