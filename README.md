@@ -6,7 +6,7 @@ As an aspiring web developer, I am fueled by a strong passion for creating inter
 
 ## Skills
 
-- HTML5, CSS3, JavaScript, Ruby
+- HTML5, CSS3, JavaScript, Ruby, PHP, Python, C#(.NET)
 - Frameworks: Ruby on Rails
 - Version Control: Git
 - Responsive Web Design
@@ -20,8 +20,6 @@ As an aspiring web developer, I am fueled by a strong passion for creating inter
 
 **Teacher of computer science (IT courses) | [IT Academy STEP] | [2021 - 2022]**
 
-- Worked for six months in the firm's branch in Grodno, Belarus.
-- I taught the basics of web development.
 
 ## Contact
 
