@@ -276,3 +276,46 @@ p{
     grid-template-columns: repeat(1,1fr);
   }
 }
+
+.projects-section .project-card {
+  margin-top: 15px;
+}
+
+.project-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #2a7da2;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.project-name .fa {
+  font-size: 18px;
+  color: #003147;
+  transition: color 0.2s;
+}
+
+.project-name:hover {
+  color: #03a9f4;
+}
+
+.project-name:hover .fa {
+  color: #03a9f4;
+}
+
+.project-tech {
+  display: block;
+  margin-top: 5px;
+  font-size: 13px;
+  color: #848c90;
+  font-weight: 500;
+}
+
+.project-description {
+  margin-top: 8px;
+  color: #333;
+}
